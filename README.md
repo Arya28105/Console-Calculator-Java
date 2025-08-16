@@ -1,2 +1,2 @@
-# first-repo
-This is my first Git Repository.
+# Calculator
+This is a console based calculator using.
